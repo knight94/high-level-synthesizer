@@ -9,28 +9,28 @@ Work is done by Naman Jain (IIT Delhi) as part of COL 719: Synthesis of digital 
 Python Graphviz package
 
 # Control flow graph
-![](Output_images/gcd_HDL_cfg.png)
-![](Output_images/modulo_HDL_cfg.png)
+![](output_images/gcd_HDL_cfg.png)
+![](output_images/modulo_HDL_cfg.png)
 
 # Control and Data flow graph
-![](Output_images/gcd_HDL_cdfg.png)
-![](Output_images/modulo_HDL_cdfg.png)
+![](output_images/gcd_HDL_cdfg.png)
+![](output_images/modulo_HDL_cdfg.png)
 
 # Example block interval graph
-![](Output_fimages/block_4_interval.svg)
+![](output_fimages/block_4_interval.svg)
 
 # Datapath
 # Minimum latency
-![](Output_images/gcd_HDLdatapath_min_latency.png)
-![](Output_images/modulo_HDLdatapath.png)
+![](output_images/gcd_HDLdatapath_min_latency.png)
+![](output_images/modulo_HDLdatapath.png)
 
 # Minimum resorce
-![](Output_images/gcd_HDLdatapath_MIN_r.png)
+![](output_images/gcd_HDLdatapath_MIN_r.png)
 
 # FSM for controller
 # Minimum latency
-![](Output_images/gcd_HDL_fsm_min_latency.png)
-![](Output_images/modulo_HDL_fsm.png)
+![](output_images/gcd_HDL_fsm_min_latency.png)
+![](output_images/modulo_HDL_fsm.png)
 
 # Minimum resorce
-![](Output_images/gcd_HDL_fsm_min_r.png)
+![](output_images/gcd_HDL_fsm_min_r.png)
