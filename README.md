@@ -24,7 +24,7 @@ Python Graphviz package
 ![](output_images/gcd_HDLdatapath_min_latency.png)
 ![](output_images/modulo_HDLdatapath.png)
 
-# Minimum resorce
+# Minimum resource
 ![](output_images/gcd_HDLdatapath_MIN_r.png)
 
 # FSM for controller
@@ -32,5 +32,5 @@ Python Graphviz package
 ![](output_images/gcd_HDL_fsm_min_latency.png)
 ![](output_images/modulo_HDL_fsm.png)
 
-# Minimum resorce
+# Minimum resource
 ![](output_images/gcd_HDL_fsm_min_r.png)
